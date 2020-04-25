@@ -21,5 +21,9 @@ Criar ferramenta para: classificar o estoque parado, realizar nova precificaçã
 ## IA - Contratações Assertivas ( Lana Souza )
 Construir algorritmo que viabilize cruzar perfil do candidato mais aderente ao o perfil da vaga. Usaremos como medida os estudos no Modelo dos 5 fatores: BIG FIVE - refere-se em psicologia aos cinco fatores da personalidade descritos pelo método lexical, ou seja, baseado em uma análise linguística: Abertura para a experiência (openness to experience); Conscienciosidade (conscientiousness); Extroversão (extraversion); Neuroticismo ou Instabilidade Emocional (ingl. neuroticism); Amabilidade (agreeableness).
 
+## Sistema de Gestão por Data Mining para apoio às decisões nas ações de saúde da UFRN (Jessica Martins)
+Criar uma ferramenta capaz de otimizar o processamento de dados e informações obtidas nos sistemas de informação da DAS que resultem na melhoria do planejamento e avaliação das ações promovidas pela gestão, oferecendo embasamento aos processos decisórios.
+
+
 
 
