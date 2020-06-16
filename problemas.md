@@ -13,3 +13,10 @@ Descrição (Entre um e dois parágrafos)
 ## Determinar entre os membros de uma equipe de projeto quem é o mais eficiente. (Waldelino Duarte) 
 
 Ao atribuir um membro de uma equipe de projeto para executar uma determinada atividade, preciso da confirmação de que fiz a escolha correta ou o aviso de que outro membro será capaz de realizar a mesma tarefa em menor tempo, com menor custo e/ou melhor qualidade.
+
+
+## Monitoramento da saúde mental de servidores e estudantes da UFRN
+
+	Problema 1: Criar um ambiente interativo para incentivar os usuários a utilizarem o app com frequência, gerando uma forte base de dados. 
+	Problema 2: Identificar alunos e servidores com tendência de desenvolvimento de problemas relacionados à saúde mental, tais quais: ansiedade, depressão, síndrome do pânico, pensamentos suicidas...
+	Problema 3: Gerar relatórios e emitir alertas para a comissão de saúde mental da Universidade. 
